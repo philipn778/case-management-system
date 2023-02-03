@@ -1,0 +1,21 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(250, 168, 168);
+}
+
+form input{
+    border-radius: 10px;
+    background-color: white;
+}
+
+form textarea{
+    border-radius: 10px;
+    background-color: white;
+}
+
+button {
+    background-color: lightgreen;
+    color: rgb(2, 2, 2);
+    border-radius: 30px;
+    cursor: pointer;
+}
